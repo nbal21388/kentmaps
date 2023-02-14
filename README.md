@@ -61,10 +61,10 @@ There were various mosaics discovered around the site, revealing appreciation of
 Today the villa has been recognised as a monument. You can visit this wonderful archaeological site, admire the mosaics and prints of the rare wall findings, a heated bath-suite and a ‘house-church’. 
 
 <param ve-image 
-       label="Lullingstone Ruins" 
+       label="Pegasus Mosaic" 
        description="Author Carole Raddato" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412821769%29.jpg">
        
 ## Archaeology in Kent today
 
