@@ -74,7 +74,10 @@ remains are treated appropriately, maintaining the Historic Environment Record d
 projects designed to ensure Kent’s heritage is cared for, recorded, and promoted. [^1]
 
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/0/0b/Lullingstone_Roman_Villa._Lullingstone_Lane%2C_Eynsford_-_geograph.org.uk_-_3009586.jpg">
+       label="Lullingstone Villa ruins" 
+       description="Author Carole Raddato" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Lullingstone_Roman_Villa._Lullingstone_Lane%2C_Eynsford_-_geograph.org.uk_-_3009586.jpg">
 <param ve-map center="Q23298" zoom="11">
 <!-- https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/a/a1/LullingstonVilla-Kent_Interior_May2001.jpg -->
 
