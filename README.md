@@ -51,12 +51,15 @@ formed by the first two letters of Christ’s name in Greek, chi (χ) and rho (�
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412819657%29.jpg">
 
-There were various mosaics discovered around the site, revealing appreciation of classical culture, one of them found in the dining room (Figure 4 and figure 5). 
-The dining room mosaic was an abstract design of interlocking patterns with a central panel portraying the four seasons as figures, surrounding Bellerophon riding 
-Pegasus, the winged horse. [^5]
+There were various mosaics discovered around the site, revealing appreciation of classical culture, one of them found in the dining room (Figure 4 and figure 5). The dining room mosaic was an abstract design of interlocking patterns with a central panel portraying the four seasons as figures, surrounding Bellerophon riding Pegasus, the winged horse. [^5]
+
+<param ve-image 
+       label="Pegasus Mosaic" 
+       description="Author Carole Raddato" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412821769%29.jpg">
  
-Today the villa has been recognised as a monument. You can visit this wonderful archaeological site, admire the mosaics and prints of the rare wall findings, 
-a heated bath-suite and a ‘house-church’. 
+Today the villa has been recognised as a monument. You can visit this wonderful archaeological site, admire the mosaics and prints of the rare wall findings, a heated bath-suite and a ‘house-church’. 
 
 <param ve-image 
        label="Lullingstone Ruins" 
