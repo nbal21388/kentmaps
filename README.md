@@ -45,6 +45,12 @@ as they are the only known paintings in Roman Britain that contain clear Christi
 Although the surviving elements of the scenes depicted are fragmentary, enough remains to suggest a large Chi-Rho - an early Christian symbol 
 formed by the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ) - was painted on the south wall. [^4]
 
+<param ve-image 
+       label="Lullingstone Roman Villa Ruins" 
+       description="Author Carole Raddato" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412819657%29.jpg">
+
 There were various mosaics discovered around the site, revealing appreciation of classical culture, one of them found in the dining room (Figure 4 and figure 5). 
 The dining room mosaic was an abstract design of interlocking patterns with a central panel portraying the four seasons as figures, surrounding Bellerophon riding 
 Pegasus, the winged horse. [^5]
@@ -58,7 +64,7 @@ a heated bath-suite and a ‘house-church’.
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/02/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413908270%29.jpg">
        
-##Archaeology in Kent today
+## Archaeology in Kent today
 
 In 1989 a team of 12 archaeologists and a Conservation Architect were put together to create Kent’s first Country Archaeologist, 
 this team now work to care for the county’s heritage. Some of their work includes assessing development areas for archaeological potential and ensuring that any 
