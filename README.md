@@ -32,7 +32,6 @@ a luxurious family home for successive wealthy owners.
        description="Author Carole Raddato" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413895064%29.jpg">
-https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg
 
 ## What do we learn from the excavations
 
@@ -65,7 +64,7 @@ Today the villa has been recognised as a monument. You can visit this wonderful 
        label="Lullingstone Ruins" 
        description="Author Carole Raddato" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/02/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413908270%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg">
        
 ## Archaeology in Kent today
 
