@@ -1,7 +1,7 @@
 <param ve-config 
        title="Lullingstone Roman Villa"
        author="Nadia Balbontin"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/a/a1/LullingstonVilla-Kent_Interior_May2001.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -45,7 +45,7 @@ Although the surviving elements of the scenes depicted are fragmentary, enough r
 formed by the first two letters of Christ’s name in Greek, chi (χ) and rho (ρ) - was painted on the south wall. [^4]
 
 <param ve-image 
-       label="Lullingstone Roman Villa Ruins" 
+       label="Villa Mosaic" 
        description="Author Carole Raddato" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288412819657%29.jpg">
@@ -74,7 +74,7 @@ remains are treated appropriately, maintaining the Historic Environment Record d
 projects designed to ensure Kent’s heritage is cared for, recorded, and promoted. [^1]
 
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/1/18/Lullingstone_Roman_Villa%2C_Britannia_%28UK%29_%288413897040%29.jpg">
+       manifest="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/a/a1/LullingstonVilla-Kent_Interior_May2001.jpg">
 <param ve-map center="Q23298" zoom="11">
 
 # References
